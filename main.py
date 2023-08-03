@@ -42,19 +42,3 @@ while True:
     elif (işlem == "5"):
         şarkı.toplam_süre()
 
-"""Verilen kod zaten temel bir müzikal playlist uygulaması için gerekli işlevselliği içeriyor. Ancak, kodu daha da geliştirmek ve yeni özellikler eklemek isterseniz aşağıdaki bazı önerileri değerlendirebilirsiniz:
-
-Arama fonksiyonları: Şu anda sadece şarkı adına göre sorgulama yapabilen bir fonksiyon mevcut. Bunun yanı sıra, sanatçıya, albüme veya şirkete göre şarkı sorgulama yapabilen fonksiyonlar ekleyebilirsiniz.
-
-Şarkı güncelleme: Mevcut şarkı bilgilerini güncellemek için bir fonksiyon ekleyebilirsiniz. Kullanıcıya şarkı adını sormak ve yeni bilgileri girmesini istemek gibi bir yöntem kullanabilirsiniz.
-
-Puana göre sıralama: Şarkıları puanlarına göre sıralayabilen bir fonksiyon ekleyebilirsiniz. Böylece kullanıcılar en yüksek puanlı şarkıları görüntüleyebilirler.
-
-Favori şarkılar: Kullanıcılara favori şarkılarını işaretleyebilecekleri bir seçenek ekleyebilirsiniz. Böylece favori şarkıları daha kolay bulabilirler.
-
-Şarkı istatistikleri: Toplam şarkı süresi dışında, örneğin albüm bazında şarkı sayısı veya sanatçı bazında ortalama şarkı süresi gibi istatistikler sağlayan fonksiyonlar ekleyebilirsiniz.
-
-GUI (Grafiksel Kullanıcı Arayüzü): Mevcut konsol tabanlı arayüzü daha kullanıcı dostu bir grafiksel arayüz ile değiştirebilirsiniz. Bu, kullanıcıların şarkıları daha kolay yönetmelerini sağlayacaktır.
-
-Bu öneriler, kodunuzu daha işlevsel ve kullanıcı dostu hale getirmeniz için başlangıç noktası olabilir. İhtiyaçlarınıza ve tercihlerinize göre, daha fazla özellik ve geliştirmeler ekleyebilirsiniz.
-"""
